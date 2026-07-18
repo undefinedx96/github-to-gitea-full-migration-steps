@@ -1,3 +1,5 @@
+# Migration Guide from GitHub to Gitea
+
 ## Step 1: Create the Gitea Personal Access Token (PAT)
 _This token allows GitHub Actions to securely push code into your Gitea account._
 1. Log into your account on [gitea.com](https://gitea.com)
